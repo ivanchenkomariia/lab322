@@ -1,3 +1,5 @@
 print('hello world')
 x+y=20
 2026
+print('helloooooo, world')
+print('helloooooo, world')
